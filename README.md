@@ -1,2 +1,1 @@
-# odin-recipes
-My first project on TOP
+Today i will do the first project on TOP. In this project I will create a website about a recipe with using my new learned html skills.
