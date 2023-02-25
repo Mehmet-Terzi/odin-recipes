@@ -10,13 +10,7 @@ body {
     background-color: lightblue;
     text-align: center;
 }
-
-.köfte img {
+img {
     height: auto;
-    width: 500px;
-}
-
-.index img {
-    height: auto;
-    width: 500px;
+    width: 300px;
 }
