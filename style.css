@@ -1,0 +1,22 @@
+.index .recipes .button {
+    font-size: 20px;
+}
+
+.index .recipes .button {
+    background-color: rgb(69, 223, 22);
+}
+
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+
+.köfte img {
+    height: auto;
+    width: 500px;
+}
+
+.index img {
+    height: auto;
+    width: 500px;
+}
